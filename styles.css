@@ -8,26 +8,29 @@ body{
     padding: 2%;
 }
 p{
-    color: white;
+    color: #BDA7C5;
     width:95%;
     word-wrap: normal;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 .photo-tiles{
     width:500px;
     height:300px;
 }
 h1{
-    color:#290238;
+    color:white;
     text-align: center;
-    font-size:3em;
+    font-size:3.5em;
 }
 h3{
-    color:#BDA7C5;
-    font-size: 2em;
+    color:hsl(283, 57%, 78%);
+    font-size: 2.5em;
 }
 
 img:hover{
     width:600px;
     height:450px;
+}
+a{
+    color:white;
 }
